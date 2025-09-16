@@ -5,3 +5,27 @@
   font-variation-settings:
         "wdth" 100;
 }
+.bg-cl{
+    background-color: #F1F1F3;
+    margin-top: 40px;
+    margin-right: 160px;
+    margin-left: 160px;
+}
+/* header style*/
+.header{
+    background-color: #C6E4D6;
+    border-radius: 5px;
+}
+.dark-2{
+    color: #0E0E0E;
+}
+/* button style*/
+.btn-primary{
+    background-color:#018365;
+    font-weight: 500;
+    font-size: 15px;
+    border: none;
+    color: white;
+    padding: 20px 35px;
+    border-radius: 5px;
+}
